@@ -6,7 +6,7 @@
 
 Transformo necessidades reais de negócio em soluções web funcionais, organizadas e fáceis de usar.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanni%20Zago-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-do-santos-zago-058891290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giovanni%20Zago-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-santos-zago/)
 
 </div>
 
